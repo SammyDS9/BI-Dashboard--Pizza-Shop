@@ -1,10 +1,10 @@
 # Dynamic Power BI Dashboard for Pizza Shop Analytics
 Description:
-Overview:
+#Overview:
 
 This project involves the development of an interactive Power BI dashboard designed to facilitate insightful data-driven decision-making for a pizza shop. The dashboard amalgamates various data sources to render a comprehensive view of the shop's operations, sales, and customer engagement. Through visual analytics, the tool aids in identifying sales trends, customer preferences, and operational bottlenecks, providing a robust platform for enhancing the shop's overall performance and customer satisfaction.
 
-Features:
+#Features:
 
 Sales Analytics: Comprehensive visualization of sales data, showcasing daily, weekly, and monthly sales, most popular items, and revenue generation, with filters to drill down into specific time periods or items.
 
@@ -16,21 +16,21 @@ Inventory Management: A detailed view of inventory usage, reorder levels, and wa
 
 Feedback and Ratings Analytics: Aggregation and analysis of customer feedback and ratings to gauge customer satisfaction and identify areas for improvement.
 
-Technological Stack:
+#Technological Stack:
 
-Power BI: Utilized for developing interactive visual reports, integrating various data sources, and implementing real-time analytics.
+#Power BI: Utilized for developing interactive visual reports, integrating various data sources, and implementing real-time analytics.
 
-SQL Database: Management of structured data related to sales, operations, inventory, and customer interactions.
+#SQL Database: Management of structured data related to sales, operations, inventory, and customer interactions.
 
-Power Query: Employed for data extraction, transformation, and loading (ETL) operations to clean and structure data for analysis.
+#Power Query: Employed for data extraction, transformation, and loading (ETL) operations to clean and structure data for analysis.
 
-Challenges and Solutions:
+#Challenges and Solutions:
 
-Data Integration: Faced challenges in integrating real-time operational data with historical sales data. Implemented Power Query transformations to amalgamate data from different sources, ensuring consistency and reliability in analytics.
+#Data Integration: Faced challenges in integrating real-time operational data with historical sales data. Implemented Power Query transformations to amalgamate data from different sources, ensuring consistency and reliability in analytics.
 
-User Interactivity: Enhanced user interactivity and dynamic data filtering options using Power BI’s DAX formula language, enabling users to derive specific insights based on varied parameters.
+#User Interactivity: Enhanced user interactivity and dynamic data filtering options using Power BI’s DAX formula language, enabling users to derive specific insights based on varied parameters.
 
-Impact:
+#Impact:
 
 Enhanced Decision-Making: The dashboard empowered the pizza shop’s management to make informed decisions, identify lucrative and underperforming items, and optimize operational workflows.
 
@@ -38,7 +38,7 @@ Customer Experience Improvement: Insights derived from customer analytics and fe
 
 Operational Efficiency: With the aid of real-time operational analytics, the shop significantly reduced order preparation and delivery times, while efficiently managing inventory and minimizing wastage.
 
-Future Enhancements:
+#Future Enhancements:
 
 Implement machine learning models to predict sales trends and inventory usage.
 
