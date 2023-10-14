@@ -1,10 +1,10 @@
 # Dynamic Power BI Dashboard for Pizza Shop Analytics
-Description:
-#Overview:
+**Description:**
+**#Overview:**
 
 This project involves the development of an interactive Power BI dashboard designed to facilitate insightful data-driven decision-making for a pizza shop. The dashboard amalgamates various data sources to render a comprehensive view of the shop's operations, sales, and customer engagement. Through visual analytics, the tool aids in identifying sales trends, customer preferences, and operational bottlenecks, providing a robust platform for enhancing the shop's overall performance and customer satisfaction.
 
-#Features:
+**#Features:**
 
 Sales Analytics: Comprehensive visualization of sales data, showcasing daily, weekly, and monthly sales, most popular items, and revenue generation, with filters to drill down into specific time periods or items.
 
@@ -16,7 +16,7 @@ Inventory Management: A detailed view of inventory usage, reorder levels, and wa
 
 Feedback and Ratings Analytics: Aggregation and analysis of customer feedback and ratings to gauge customer satisfaction and identify areas for improvement.
 
-#Technological Stack:
+**#Technological Stack:**
 
 #Power BI: Utilized for developing interactive visual reports, integrating various data sources, and implementing real-time analytics.
 
@@ -30,7 +30,7 @@ Feedback and Ratings Analytics: Aggregation and analysis of customer feedback an
 
 #User Interactivity: Enhanced user interactivity and dynamic data filtering options using Power BI’s DAX formula language, enabling users to derive specific insights based on varied parameters.
 
-#Impact:
+**#Impact:**
 
 Enhanced Decision-Making: The dashboard empowered the pizza shop’s management to make informed decisions, identify lucrative and underperforming items, and optimize operational workflows.
 
@@ -38,7 +38,7 @@ Customer Experience Improvement: Insights derived from customer analytics and fe
 
 Operational Efficiency: With the aid of real-time operational analytics, the shop significantly reduced order preparation and delivery times, while efficiently managing inventory and minimizing wastage.
 
-#Future Enhancements:
+**#Future Enhancements:**
 
 Implement machine learning models to predict sales trends and inventory usage.
 
@@ -46,6 +46,6 @@ Develop a customer-facing app to facilitate easier order placements and leverage
 
 Integrate with additional data sources like social media and online reviews for holistic brand perception analysis.
 
-Visuals:
+**Visuals:**
 ![image](https://github.com/SammyDS9/BI-Dashboard--Pizza-Shop/assets/116521537/c6ffbb49-adf1-445b-8972-6ee3cd461e74)
 ![image](https://github.com/SammyDS9/BI-Dashboard--Pizza-Shop/assets/116521537/b7f663b9-ee33-4757-b327-e45578f5ab12)
